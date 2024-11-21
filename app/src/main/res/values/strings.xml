@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoCoinsApp</string>
+    <string name="search_hint">Search for coins</string>
+    <string name="filter_active">Active Coins</string>
+    <string name="filter_new">New Coins</string>
+    <string name="filter_type">Coin Type</string>
+
+    <string name="coin_type">Coin Type</string>
+    <string name="new_coin_badge">New Coin Badge</string>
+</resources>
